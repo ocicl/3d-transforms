@@ -1,0 +1,9 @@
+* 3d-transforms
+
+A utility library implementing a common structure to encapsulate spatial transformations
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/shinmera/3d-transforms.git |
+| commit  | fc35bc6                                           |
+| systems | 3d-transforms                                     |
+|---------+---------------------------------------------------|
