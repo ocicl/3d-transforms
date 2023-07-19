@@ -4,6 +4,6 @@ A utility library implementing a common structure to encapsulate spatial transfo
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/shinmera/3d-transforms.git |
-| commit  | fc35bc6                                           |
+| commit  | 0cf03f2                                           |
 | systems | 3d-transforms                                     |
 |---------+---------------------------------------------------|
