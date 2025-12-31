@@ -1,9 +1,9 @@
 * 3d-transforms
 
-A utility library implementing a common structure to encapsulate spatial transformations
+A utility library implementing a common structure to encapsulate spatial transformations.
 
 |---------+---------------------------------------------------|
-| source  | git:https://github.com/shinmera/3d-transforms.git |
-| commit  | 2c3731f                                           |
-| systems | 3d-transforms                                     |
+| source  | git:https://codeberg.org/shinmera/3d-transforms.git |
+| commit  | 86e7e99                                           |
+| systems | 3d-transforms-test 3d-transforms                  |
 |---------+---------------------------------------------------|
